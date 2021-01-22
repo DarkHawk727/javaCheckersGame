@@ -1,10 +1,12 @@
+package ics3u.culminating.assignment;
 
-public class Main
-{
-	public static void main(String[] args) {
-		System.out.println("Hello Soo");
-        game game = new game();
+public class ICS3UCulminatingAssignment {
+
+    public static void main(String[] args) {
+         
+        Game game = new Game();
         game.main(null);
-	}
+        
+    }
+    
 }
-
