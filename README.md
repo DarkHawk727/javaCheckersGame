@@ -6,6 +6,7 @@ This is a terminal game of checkers written in java for my ICS3U Culminating.
 * For-Loops
 * While-Loops
 * If-Else
+* Classes and Functions
 # Board CheatSheet
 |XXX|Col|Col|Col|Col|Col|Col|Col|Col|
 |---|---|---|---|---|---|---|---|---|
