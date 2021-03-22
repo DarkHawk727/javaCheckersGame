@@ -1,5 +1,5 @@
 # javaCheckersGame
-This is a terminal-based game of checkers written in java for my ICS3U Culminating.
+This is a terminal-based game of checkers written in java for my ICS3U Culminating with @sahn2349.
 
 # What I learned
 * Editing and Writing to 2D Arrays
